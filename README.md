@@ -38,7 +38,7 @@ To set up and run VibeMeet locally, follow these instructions.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/VijaySelvaraj19/Zoom_app_clone.git
+   git clone https://github.com/Akash-oops/Video-Conferencing-App.git
    cd Zoom_clone_app
 
 2. Fetch dependencies:
